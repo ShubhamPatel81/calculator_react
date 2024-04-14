@@ -1,0 +1,12 @@
+.buttonsContainer {
+  width: 86%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button {
+  width: 46px;
+  height: 46px;
+  margin: 3px;
+  background-color: #e1dbdb;
+}
